@@ -1,0 +1,16 @@
+.mainButton {
+    border: none;
+    display: flex;
+    box-shadow: none;
+    cursor: pointer;
+    margin: 5px 10px;
+    padding: 10px 15px;
+    border-radius: 1px;
+    font-size: 14px;
+    line-height: 15px;
+    color: white;
+    background: #315efb;
+}
+.mainButtonText {
+    margin-right: 10px;
+}
